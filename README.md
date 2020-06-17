@@ -13,7 +13,9 @@
 src/views/... 是各个页面
 src/views/layout/SidebarItem.vue 是左侧导航页
 几个主页面在example，movie,fileViews里面
+添加页面时候去router/index.js
 交互方式是axios.get(后端链接)
+跳转方法就是$router.push()
 
 
 ## 目录结构
