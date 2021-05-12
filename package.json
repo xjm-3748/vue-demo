@@ -35,7 +35,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "blueimp-md5": "^2.7.0",
-    "codemirror": "5.26.0",
+    "codemirror": "5.58.2",
     "dropzone": "5.1.0",
     "echarts": "3.6.1",
     "echarts-gl": "^1.0.0-beta.4",
